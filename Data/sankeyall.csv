@@ -1,0 +1,71 @@
+country_route,flty,flt_count,prev_total,pax_total,Region,Network
+Australia,2015,1332,2649461822050.0,316245.0,Australia Continent,International
+Australia,2016,1347,2610563744220.0,311360.0,Australia Continent,International
+Australia,2017,1308,2385764434660.0,290222.0,Australia Continent,International
+Australia,2018,1380,2604703169390.0,314897.0,Australia Continent,International
+Australia,2019,1338,2704152165220.0,318188.0,Australia Continent,International
+Cambodia,2015,2623,507982301782.0,273719.0,South East Asia,International
+Cambodia,2016,2461,518079541140.0,282113.0,South East Asia,International
+Cambodia,2017,2091,479210032850.0,264132.0,South East Asia,International
+Cambodia,2018,1947,449660703696.0,241469.0,South East Asia,International
+Cambodia,2019,1802,391952528008.0,211848.0,South East Asia,International
+China,2015,2543,1199939306425.64,391148.0,North East Asia,International
+China,2016,2667,1518392033446.0,425812.0,North East Asia,International
+China,2017,2625,1413966128914.0,416563.0,North East Asia,International
+China,2018,2747,1645499974426.0,466119.0,North East Asia,International
+China,2019,2360,1466887213826.0,399841.0,North East Asia,International
+France,2015,297,592753671360.0,64477.6,Europe,International
+France,2016,304,624312460960.0,65155.2,Europe,International
+France,2017,287,618918149152.0,60264.0,Europe,International
+France,2018,294,688941876880.0,61599.2,Europe,International
+France,2019,293,648907141840.0,60585.6,Europe,International
+Germany,2015,325,601973040808.0,64560.0,Europe,International
+Germany,2016,329,580627535144.0,60485.6,Europe,International
+Germany,2017,362,673617146000.0,68252.8,Europe,International
+Germany,2018,389,771602674184.0,74149.6,Europe,International
+Germany,2019,380,712640666896.0,68386.4,Europe,International
+Hong Kong,2015,957,669986519036.8,224433.6,North East Asia,International
+Hong Kong,2016,981,663641048659.2,229702.4,North East Asia,International
+Hong Kong,2017,983,544326478531.2,219968.0,North East Asia,International
+Hong Kong,2018,992,636888188265.6,241593.6,North East Asia,International
+Hong Kong,2019,949,532205278988.8,214915.2,North East Asia,International
+Indonesia,2015,650,352796360040.0,85183.0,South East Asia,International
+Indonesia,2016,680,330841018174.0,92298.0,South East Asia,International
+Indonesia,2017,686,341461307460.0,91852.0,South East Asia,International
+Indonesia,2018,701,368949748570.0,95958.0,South East Asia,International
+Indonesia,2019,853,429690450572.4,120158.0,South East Asia,International
+Japan,2015,3109,1924306551210.0,334362.0,North East Asia,International
+Japan,2016,3158,1978737438984.0,338430.0,North East Asia,International
+Japan,2017,3416,2257580162154.0,373123.2,North East Asia,International
+Japan,2018,3856,2806069470622.8,414861.0,North East Asia,International
+Japan,2019,4572,3102757207311.6,482233.8,North East Asia,International
+Malaysia,2015,1322,348021030869.2,252556.2,South East Asia,International
+Malaysia,2016,1081,242174196945.2,196550.9,South East Asia,International
+Malaysia,2017,710,192188537847.8,133325.4,South East Asia,International
+Malaysia,2018,692,222375460021.0,139958.0,South East Asia,International
+Malaysia,2019,673,214389478334.2,137766.2,South East Asia,International
+Myanmar,2015,359,122867864548.0,38425.0,South East Asia,International
+Myanmar,2016,496,105395227868.0,57740.0,South East Asia,International
+Myanmar,2017,530,102096823154.0,55539.0,South East Asia,International
+Myanmar,2018,581,211678717300.0,78228.0,South East Asia,International
+Myanmar,2019,624,217876381394.0,81875.0,South East Asia,International
+Singapore,2015,2067,628800748298.0,314994.0,South East Asia,International
+Singapore,2016,2056,645700015552.0,315459.0,South East Asia,International
+Singapore,2017,2049,675880056314.0,308161.0,South East Asia,International
+Singapore,2018,2282,799854555986.0,340650.0,South East Asia,International
+Singapore,2019,1978,746084810774.0,331332.0,South East Asia,International
+South Korea,2015,2781,2142324118646.0,498145.0,North East Asia,International
+South Korea,2016,2766,2349871295790.0,557552.0,North East Asia,International
+South Korea,2017,2675,2740583548620.0,570355.0,North East Asia,International
+South Korea,2018,2955,3130633281710.0,599567.0,North East Asia,International
+South Korea,2019,2935,2856679446384.0,614917.0,North East Asia,International
+Taiwan,2015,1663,933579439560.0,259002.0,North East Asia,International
+Taiwan,2016,1802,840589244430.0,259992.0,North East Asia,International
+Taiwan,2017,1687,747821738112.0,231689.0,North East Asia,International
+Taiwan,2018,2068,951686633052.0,303276.0,North East Asia,International
+Taiwan,2019,1909,762207557140.0,267625.0,North East Asia,International
+Thailand,2015,2020,456504260934.4,230644.0,South East Asia,International
+Thailand,2016,2353,501941032089.6,273034.4,South East Asia,International
+Thailand,2017,2088,501127165752.0,255172.0,South East Asia,International
+Thailand,2018,2053,578207670576.0,263141.60000000003,South East Asia,International
+Thailand,2019,2359,577030385403.2,293413.60000000003,South East Asia,International

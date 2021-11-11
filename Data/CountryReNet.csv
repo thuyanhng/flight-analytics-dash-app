@@ -1,0 +1,24 @@
+country_route,Region,Network
+Australia,Australia Continent,International
+Cambodia,South East Asia,International
+Cambodia : Cambodia,South East Asia,International
+Cambodia : Laos,South East Asia,International
+China,North East Asia,International
+France,Europe,International
+Germany,Europe,International
+Hong Kong,North East Asia,International
+Indonesia,South East Asia,International
+Japan,North East Asia,International
+Japan : Taiwan,North East Asia,International
+Laos,South East Asia,International
+Macau,North East Asia,International
+Malaysia,South East Asia,International
+Myanmar,South East Asia,International
+Philippines,South East Asia,International
+Russia,Europe,International
+Singapore,South East Asia,International
+South Korea,North East Asia,International
+Taiwan,North East Asia,International
+Thailand,South East Asia,International
+United Kingdom,Europe,International
+Vietnam,Domestic route,Domestic

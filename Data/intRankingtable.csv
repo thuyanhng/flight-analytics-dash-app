@@ -1,0 +1,15 @@
+Rank,Flights,Revenue,Passengers,Exbag revenue,Cargo Weight,Cargo revenue,Mail revenue,Average load rate,Average revenue per Pax
+1,Japan,South Korea,South Korea,Australia,Australia,Japan,China,France,France
+2,South Korea,Australia,China,South Korea,South Korea,Australia,France,South Korea,Germany
+3,China,Japan,Japan,Japan,Japan,South Korea,Japan,Germany,Australia
+4,Cambodia,China,Singapore,Singapore,China,China,Australia,Singapore,Japan
+5,Thailand,Taiwan,Australia,Malaysia,Germany,Germany,Germany,Australia,South Korea
+6,Singapore,Singapore,Taiwan,Thailand,Singapore,France,South Korea,Malaysia,Indonesia
+7,Taiwan,Germany,Thailand,Hong Kong,Thailand,Singapore,Taiwan,Thailand,China
+8,Australia,France,Cambodia,Taiwan,Hong Kong,Hong Kong,Thailand,Hong Kong,Taiwan
+9,Hong Kong,Hong Kong,Hong Kong,Germany,France,Thailand,Hong Kong,Japan,Hong Kong
+10,Malaysia,Thailand,Malaysia,China,Taiwan,Taiwan,Malaysia,China,Myanmar
+11,Indonesia,Cambodia,Indonesia,France,Indonesia,Indonesia,Indonesia,Taiwan,Singapore
+12,Myanmar,Indonesia,Germany,Myanmar,Malaysia,Malaysia,Cambodia,Indonesia,Thailand
+13,Germany,Malaysia,France,Indonesia,Cambodia,Myanmar,Myanmar,Cambodia,Cambodia
+14,France,Myanmar,Myanmar,Cambodia,Myanmar,Cambodia,Singapore,Myanmar,Malaysia
