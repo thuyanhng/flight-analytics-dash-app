@@ -13,4 +13,9 @@ The analysis breaks down flight network performance by indicators, including:
 time, the seasonal analysis (peak and low) of each country.
 * _Route analysis:_ The performance, the growth and changes through
 time, the seasonal analysis (peak and low) of each route.
+
+
+Screenshot for the app:
+![animated](screenshot/Screenshot.gif)
+
 ### Application deployed on Heroku [here](https://sample-flight-analytics.herokuapp.com/flight-network-analysis)
