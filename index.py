@@ -1,5 +1,5 @@
 import os
-
+import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
@@ -181,3 +181,11 @@ app.layout = index()
 if __name__ == "__main__":
     # set debug to false when deploying app
     app.run_server(debug=True, port=8286)
+# set app server to variable for deployment
+srv = app.server
+
+# set app callback exceptions to true
+app.config.suppress_callback_exceptions = True
+
+# set application title
+app.title = "Flight Network Analytics"
