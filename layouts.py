@@ -228,7 +228,7 @@ intLayout1 = html.Div([
         dbc.Col(
             html.Div(
                 dash_table.DataTable(
-                    data=intranktab.to_dict('record'),
+                    data=intranktab.to_dict(orient= 'records'),
                     columns=[{'id': c, 'name': c} for c in intranktab],
                     fixed_rows={'headers': True},
                     style_as_list_view=True,
